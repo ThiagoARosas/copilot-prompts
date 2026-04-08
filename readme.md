@@ -1,110 +1,148 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+Roadmap de Transição para Especialista em Dados com IA (Nível Inicial)
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+📌 Contexto
 
-</p>
+Este roadmap foi criado como desafio da Dio para apoiar minha transição de carreira para a área de Dados com foco em IA, partindo do zero, com prioridade em SQL, seguido de Python, automação e fundamentos de Machine Learning.
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+Disponibilidade: 6 horas por semana
+Perfil: Iniciante
+Foco: Dados, código e automação de tarefas
+Objetivo: Transição de carreira para Dados/IA
+🧩 Visão do Dia a Dia da Carreira
 
-<br/>
-<br/>
+Como é o trabalho de um(a) Especialista em Dados com IA (nível inicial):
 
-## 💻 Sobre o Projeto
+Consultar e manipular dados em bancos relacionais (SQL)
+Automatizar tarefas repetitivas com scripts em Python
+Analisar dados para gerar insights de negócio
+Criar modelos simples de Machine Learning
+Documentar e comunicar resultados de forma clara
+🧠 Mapa de Skills
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+✅ Core Skills (Essenciais)
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+SQL (consultas, joins, agregações)
+Python para análise de dados e automação
+Estatística básica
+Fundamentos de Machine Learning
+➕ Nice-to-Have (Complementares)
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+Visualização de dados
+Storytelling com dados
+Git e versionamento
+🛠 Ferramentas e Tecnologias
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+SQL: PostgreSQL ou MySQL
+Python: Pandas, NumPy, Scikit-learn
+Jupyter Notebook
+Git e GitHub
+📅 Roadmap de 90 Dias
 
-- _Exemplo_:
+Adaptado para 6 horas por semana (~1h/dia)
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+🔹 Mês 1 – Fundamentos (SQL como Prioridade)
 
-- [Outros pré-requisitos, se aplicável]
+Semana 1–2
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+Introdução ao SQL
+SELECT, WHERE, ORDER BY, LIMIT
+Funções básicas (COUNT, SUM, AVG)
+Prática diária no curso + exercícios extras
+✅ Resultado: realizar consultas simples sem ajuda
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+Semana 3–4
 
-- [Lista das habilidades principais a serem desenvolvidas]
+GROUP BY e HAVING
+JOIN (INNER e LEFT)
+Subqueries simples
+Resolução de pequenos cases de negócio
+✅ Resultado: resolver problemas reais de SQL nível júnior
 
-  - [Subhabilidades relacionadas, se aplicável]
+🔹 Mês 2 – Python + SQL na Prática
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+Semana 5–6
 
-## 🎯 Objetivos e Resultados Esperados
+Python do zero (sintaxe essencial)
+Integração SQL + Python
+Extração de dados do banco via script
+Exportação automática para CSV
+✅ Resultado: automação básica de consultas
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+Semana 7–8
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+Limpeza e preparação de dados com Pandas
+Análise exploratória de dados (EDA)
+Gráficos simples
+Introdução ao Machine Learning
+✅ Resultado: entender o fluxo completo de análise de dados
 
-<!--START_SECTION:footer-->
+🔹 Mês 3 – Portfólio e Preparação para Entrevistas
 
-<br />
-<br />
+Semana 9–10
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+Início do projeto final
+Criação de banco de dados próprio
+Queries SQL orientadas a problemas reais
+Automação com Python
+Semana 11–12
+
+Revisão de SQL (joins, agregações)
+Treino de perguntas de entrevista
+Ajuste de currículo e LinkedIn para Dados
+✅ Resultado: perfil pronto para vagas júnior / transição
+
+🚀 Projeto de Portfólio
+
+📌 Projeto: Sistema Automatizado de Análise de Dados
+
+O que fazer
+
+Criar um projeto que:
+
+Armazene dados em um banco SQL
+Responda perguntas de negócio com queries SQL
+Automatize a análise com Python
+Gere relatórios e gráficos automaticamente
+Entregáveis
+
+Script SQL documentado
+Código Python de automação
+Repositório GitHub com README explicativo
+Critérios de Aceitação
+
+Código limpo e organizado
+Processo automatizado
+Insights claros e úteis
+🔧 Dica: use um tema próximo à sua realidade profissional.
+
+💬 Roteiro de Entrevistas (Foco Júnior)
+
+Pergunta: Qual a diferença entre WHERE e HAVING?
+
+Resposta esperada:
+
+O WHERE filtra registros antes do agrupamento, enquanto o HAVING filtra resultados após o GROUP BY, sendo usado com funções de agregação.
+
+🎓 Trilhas de Estudo (DIO)
+
+Trilha Principal (prioridade)
+
+Formação SQL Database Specialist
+Trilha Complementar
+
+Formação Cientista de Dados com Python
+📌 Estratégia:
+
+SQL primeiro → Python → IA como diferencial
+
+✅ Estratégia de Estudo Semanal
+
+80% do tempo: curso de SQL
+20% do tempo: exercícios práticos e desafios próprios
+✨ Considerações Finais
+
+Este roadmap representa meu plano estruturado de aprendizado, com foco em constância, prática real e transição sustentável para a área de Dados com IA.
+
+📍 Work in progress — este repositório será atualizado conforme a evolução dos estudos e projetos.
+
+ 
